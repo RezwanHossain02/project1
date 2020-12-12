@@ -1,0 +1,33 @@
+body{
+    background:rgb(77, 143, 126) ;
+    color: #fff;
+}
+.navbar{
+    border-bottom: 4px solid rgb(113, 173, 207);
+    background: rgb(60, 155, 142);
+    opacity: o.8;
+}
+#home-section{
+    background: url(../img/resize.jfif);
+    background-size: cover;
+    min-height: 600px;
+    background-attachment: fixed;
+}
+#home-section .dark-overlay{
+background:rgba(0,0,0,0.6);
+min-height: 600px;
+}
+#home-section .home-inner{
+    padding-top: 150px;
+    padding-bottom: 100px;
+}
+#home-section .fas{
+    background-color: rgb(238, 187, 151);
+    padding: 4px;
+    border-radius: 5px;
+}
+
+h3{
+    padding: 0px;
+    color: rgb(35, 179, 204);
+}
